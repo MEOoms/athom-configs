@@ -1,4 +1,3 @@
-
 substitutions:
   name: "athom-smart-plug-v2"
   friendly_name: "Smart Plug V2"
@@ -107,8 +106,8 @@ wifi:
 
 captive_portal:
 
-dashboard_import:
-  package_import_url: github://athom-tech/athom-configs/athom-smart-plug-v2.yaml
+#dashboard_import:
+# package_import_url: github://athom-tech/athom-configs/athom-smart-plug-v2.yaml
 
 # Dentra Components - Adds 'Platform - Energy Statistics'
 # https://github.com/dentra/esphome-components/tree/master/components/energy_statistics
